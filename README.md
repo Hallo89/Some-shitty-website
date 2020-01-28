@@ -1,6 +1,5 @@
 # hallo89.github.io (formerly Some-shitty-website)
 
-A website having started as a little side-project of mine, without much confidence, as one can see at the name of it.
-Meanwhile it is actually quite feature-rich and a large playground for my projects
+An own website having started as a little side-project of mine, without much confidence, as one can see at the former name of it.
 
-It features for example a random number generator and an ongoing model creator for Minecraft, but also a page to create triangles and other silly stuff
+Since it has become quite feature-rich and a large playground for my projects, it has been moved to https://github.com/hallo89/hallo89.net, with this repository being archived.
